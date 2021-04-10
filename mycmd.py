@@ -6,3 +6,5 @@ print(number // 2)
 print("what")
 def my_new_fun():
     return 42
+def my_awesome_func():
+    return "awesome"
