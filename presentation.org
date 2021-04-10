@@ -1,0 +1,106 @@
+* Linux Workshop
+** Getting comfortable with command line
+   - Home dir
+   - pwd
+   - prompt
+   - ls
+** Anatomy of a process
+   - Lifetime
+   - Memory
+   - System calls
+   - Files
+   - Stdio
+** Basic commands
+   - cat
+   - less
+   - cd
+   - echo
+   - touch
+   - mv, cp, -r
+   - rm & rmdir (danger)
+   - nano
+   - curl/wget
+   - Reverse Search (Ctrl + R)
+   - Command line switches
+** More commands
+   - grep
+   - ps aux
+   - kill
+** Getting help:
+   - Online
+   - Man pages
+** Combining commands
+   - Stream indirection
+   - Suppressing output
+   - Basics of Piping
+** Creating your own command
+   - aliases
+   - Script way
+   - Permissions
+   - Bash way
+   - The C way
+** SSH
+   - Remote controlling servers
+   - Importance of commandline
+   - Bread and butter for an engineer
+   - Most development/deployment happens remotely
+** Text Editors
+   - Don't get caught up in flame war
+   - emacs is best
+   - ...for me
+   - 
+** Programming tools:
+   - Text Editors
+   - Compiler
+   - Interpretors
+   - build tools
+   - version control systems
+** Note on IDEs
+** How to get help
+** Where to go from here?
+* Git Workshop [WIP]
+** Introduction to version control systems
+** Git, the distributed VCS
+** Basics of Git
+   - Creating new repo
+   - Status
+   - Add
+   - Staging Area
+   - Reset
+   - Commit (with -m)
+   - Log
+   - `-am`
+   - Diff (with --staged)
+   - Amend
+   - Reset Hard
+** Underlying concepts: hashes, commits, trees [if time]
+   - SHA1 Hashes
+   - Blobs
+   - Trees (DirTree)
+   - Commits
+** Github
+   - Creating new Repo on GH
+   - git pull
+   - git push
+   - common workflow with one person
+** Branching
+   - Basics of branching
+   - Example of branching with slides
+   - Merging
+** Rebasing
+   - Rebasing -- Explain the word
+   - Always think of source commit and destination commit
+   - Example of simple rebase and merge
+   - Semantics of rebase vs merge
+     - rebase needs to be executed from the source branch (who's label will move)
+     - merge needs to be executed from destination branch (who's label will move)
+** History rewriting
+   - Why rewrite history -- cleaner history is better
+   - How to re-write it. An example
+** Github II
+   - Collaboration
+   - Remotes
+   - Pull requests
+** Where to go from here
+** Questions
+* One more thing
